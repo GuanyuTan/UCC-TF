@@ -1,0 +1,25 @@
+##### MNIST Dataset #####
+digit:0,	num_train:5923,		num_val:0,		num_test:980,		total:6903
+digit:1,	num_train:6742,		num_val:0,		num_test:1135,		total:7877
+digit:2,	num_train:5958,		num_val:0,		num_test:1032,		total:6990
+digit:3,	num_train:6131,		num_val:0,		num_test:1010,		total:7141
+digit:4,	num_train:5842,		num_val:0,		num_test:982,		total:6824
+digit:5,	num_train:5421,		num_val:0,		num_test:892,		total:6313
+digit:6,	num_train:5918,		num_val:0,		num_test:958,		total:6876
+digit:7,	num_train:6265,		num_val:0,		num_test:1028,		total:7293
+digit:8,	num_train:5851,		num_val:0,		num_test:974,		total:6825
+digit:9,	num_train:5949,		num_val:0,		num_test:1009,		total:6958
+TOTAL:,		num_train:60000.0,	num_val:0.0,	num_test:10000.0,	total:70000.0
+
+##### Splitted Dataset #####
+digit:0,	num_train:4936,		num_val:987,		num_test:980,		total:6903
+digit:1,	num_train:5619,		num_val:1123,		num_test:1135,		total:7877
+digit:2,	num_train:4965,		num_val:993,		num_test:1032,		total:6990
+digit:3,	num_train:5110,		num_val:1021,		num_test:1010,		total:7141
+digit:4,	num_train:4869,		num_val:973,		num_test:982,		total:6824
+digit:5,	num_train:4514,		num_val:907,		num_test:892,		total:6313
+digit:6,	num_train:4932,		num_val:986,		num_test:958,		total:6876
+digit:7,	num_train:5221,		num_val:1044,		num_test:1028,		total:7293
+digit:8,	num_train:4876,		num_val:975,		num_test:974,		total:6825
+digit:9,	num_train:4958,		num_val:991,		num_test:1009,		total:6958
+TOTAL:,		num_train:50000.0,	num_val:10000.0,	num_test:10000.0,	total:70000.0
